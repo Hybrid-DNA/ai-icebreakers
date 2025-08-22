@@ -14,6 +14,7 @@ Originally designed and built for AI.Con Sydney by Justin McGee Odger, the app c
   * `event_subject`
   * `audience`
   * `additional_notes`
+* Example: http://localhost:8501/?event=conference&event_subject=ai&audience=somewhat-technical&additional_notes=the-conference-is-called-AI.Con
 * Simple web interface with one-click regeneration
 * Customisable style via `style.css`
 
