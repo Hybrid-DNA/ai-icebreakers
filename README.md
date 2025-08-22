@@ -1,7 +1,7 @@
 # 🧊 AI Icebreakers
 
 AI Icebreakers is a lightweight Streamlit app that generates short, fun, and creative icebreaker questions using Google’s Gemini API.
-Originally designed for conferences, the app can be used in any setting where you want to spark conversation.
+Originally designed and built for AI.Con Sydney by Justin McGee Odger, the app can be used in any setting where you want to spark conversation.
 
 ---
 
@@ -28,17 +28,8 @@ Originally designed for conferences, the app can be used in any setting where yo
 
 ### 2. Clone this Repository
 
-On macOS/Linux:
-
 ```bash
-git clone https://github.com/yourusername/ai-icebreakers.git
-cd ai-icebreakers
-```
-
-On Windows (PowerShell):
-
-```powershell
-git clone https://github.com/yourusername/ai-icebreakers.git
+git clone https://github.com/Hybrid-DNA/ai-icebreakers.git
 cd ai-icebreakers
 ```
 
@@ -90,7 +81,7 @@ A big thank you to:
 
 * [Google DeepMind / Gemini](https://deepmind.google/) for providing the language models
 * The open-source [Streamlit](https://streamlit.io/) community for making interactive apps simple
-* Contributors and testers who helped refine this project
+* My co-contributors Clara Su and Shelley Agrawal
 
 ---
 
